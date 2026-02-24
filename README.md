@@ -4,19 +4,30 @@ I'm passionate about cybersecurity and enjoy working on hands-on projects focuse
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/ASVTanaka/Vulnerability-Management-Program)**
+- **[Vulnerability Management Program Implementation](https://github.com/AdrianSVT/Vulnerability-Management-Program)**
 
 ## 🎯 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ASVTanaka/Threat-Hunting-Scenario-TOR)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/AdrianSVT/Unauthorized-TOR-Usage---Threat-Hunt)**
+- **[Crosscheck - Threat Hunt](https://github.com/AdrianSVT/Crosscheck---Threat-Hunt)**
+- **[Corp Health Trace Back - Threat Hunt](https://github.com/AdrianSVT/Corp-Health-Traceback---Threat-Hunt)**
+
+## Active Directory and Hybrid Identity 
+
+- **[Managing Users, Groups, and Password Policies](https://github.com/AdrianSVT/Active-Directory-Users-Groups-and-GPOs)**
+- **[Mini Corporate Enviroment Lab](https://github.com/AdrianSVT/Active-Directory-Mini-Corporate-Environment-Lab)**
+- **[Entra Connect Sync Lab](https://github.com/AdrianSVT/Entra-Connect-Sync-Lab)**
+
+## Ticketing Systems
+
+- **[ServiceNow Lab - Commom IT Tickets](https://github.com/AdrianSVT/IT-Help-Desk-Ticketing-System-Lab-ServiceNow)**
 
 ---
 
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-vergara-390b3a387/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ASVTanaka)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdrianSVT)
 
 ---
 
