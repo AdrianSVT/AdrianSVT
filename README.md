@@ -20,11 +20,3 @@ I'm passionate about cybersecurity and enjoy working on hands-on projects focuse
 
 ---
 
-### 📊 GitHub Stats
-
-![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASVTanaka&show_icons=true&theme=dark)
-
-### 🔝 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASVTanaka&layout=compact&theme=dark)
-
