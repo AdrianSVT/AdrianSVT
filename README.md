@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and enjoy working on hands-on projects focuse
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/AdrianSVT/Unauthorized-TOR-Usage---Threat-Hunt)**
 - **[Crosscheck - Threat Hunt](https://github.com/AdrianSVT/Crosscheck---Threat-Hunt)**
 - **[Corp Health Trace Back - Threat Hunt](https://github.com/AdrianSVT/Corp-Health-Traceback---Threat-Hunt)**
+- **[The Broker - Threat Hunt](https://github.com/AdrianSVT/The-Broker---Threat-Hunt/tree/main)**
 
 ## Active Directory and Hybrid Identity 
 
